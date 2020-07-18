@@ -1,3 +1,1 @@
-# stockPredictor
-
-stock predictor project
+Charitable project to lose money.
