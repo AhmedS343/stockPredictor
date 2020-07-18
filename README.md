@@ -1,0 +1,3 @@
+# stockPredictor
+
+stock predictor project
